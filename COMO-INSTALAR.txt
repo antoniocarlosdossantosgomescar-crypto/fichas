@@ -1,0 +1,22 @@
+FICHAS DE TREINO – ANTÔNIO CARLOS (aplicativo instalável)
+
+Esta pasta é o aplicativo completo. Para ter o ícone na tela do tablet, ela precisa ficar
+em um endereço da internet (só na primeira vez). Depois de instalado, ele abre sem internet.
+
+PASSO A PASSO (opção gratuita e simples)
+1. No computador, extraia este .zip. Vai aparecer uma pasta com o index.html.
+2. Acesse app.netlify.com/drop e arraste a PASTA inteira para a página.
+   (Se preferir, GitHub Pages ou qualquer hospedagem de site também servem.)
+3. Anote o endereço que ela gerar e abra no tablet, pelo Chrome ou Samsung Internet.
+4. Toque em "Instalar app" (no topo do aplicativo) ou, no menu do navegador,
+   em "Instalar aplicativo" / "Adicionar à tela inicial".
+
+PASSAR AS FICHAS QUE JÁ ESTÃO NA PÁGINA ANTERIOR
+O aplicativo instalado é um "lugar novo", então começa vazio. Na página antiga, toque em
+Backup > Baixar backup. No aplicativo, toque em Backup > Restaurar e escolha o arquivo.
+
+COMO USAR
+Dentro do aplicativo, toque em Ajuda (barra de cima) para ver o guia completo.
+
+ATUALIZAR NO FUTURO
+Suba a pasta nova no mesmo endereço. O aplicativo atualiza na próxima vez que abrir com internet.
